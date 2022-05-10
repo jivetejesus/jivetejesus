@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou a Ivete👊
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)}
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jivetejesus&show_icons=true&theme=merko)
 
@@ -11,3 +11,9 @@
 <img align="center" alt
 ="css"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="jss" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div><br/>
+
+Agradeço a todos que estão dispostos a me ajudar aprender Programação, desejo um dia poder fazer o mesmo.
+
+
+
